@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include <unistd.h>
+
 int main(void)
 {
-	printf("lucky\n");	
-	printf("Jim\n");	
-	printf("tar\n");	
-
+	printf("hello world\n");
+		
 	return 0;
 }
