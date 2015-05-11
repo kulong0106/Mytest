@@ -6,5 +6,7 @@ int main(void)
 	printf("Hello world\n");
 	printf("My name is Allen Ren\n");
 
+	printf("My name is Lcuky Ren\n");
+
 	return 0;
 }
