@@ -9,5 +9,7 @@ int main(void)
 
 	printf("My name is Lcuky Ren\n");
 
+	printf("welcome\n");
+
 	return 0;
 }
