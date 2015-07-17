@@ -11,5 +11,7 @@ int main(void)
 
 	printf("welcome\n");
 
+	printf("welcome me\n");
+
 	return 0;
 }
